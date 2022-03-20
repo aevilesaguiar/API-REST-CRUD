@@ -1,0 +1,22 @@
+Objetivo
+
+Criar uma API restiful  para controle de produtos
+
+Modelo:ok
+   Produto: id, nome, quantidade, valor, observacao
+
+Repositório de produto:ok
+    ObterTodos, obterPorId, cadastrar/adicionar, atualizar, deletar.
+
+
+Quem vai usar o repositório:
+Serviço de produto: ok
+    ObterTodos, obterPorId, cadastrar/adicionar, atualizar, deletar.
+
+Criar Controller de produto (será a classe principal para poder trabalhar com
+ todos os metodos, ele será o endpoint principal, ele que vai encontrar/receber requisições
+ conhecer os serviços):
+
+
+
+
